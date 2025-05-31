@@ -787,6 +787,7 @@ dependencies = [
  "log",
  "nanoid",
  "openssl",
+ "openssl-sys",
  "rand",
  "rdkafka",
  "reqwest",
